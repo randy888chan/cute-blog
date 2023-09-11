@@ -8,9 +8,6 @@ dependencies:
   preact:
     specifier: ^10.17.1
     version: 10.17.1
-  preact@latest:
-    specifier: link:astro/preact@latest
-    version: link:astro/preact@latest
 
 devDependencies:
   '@astrojs/preact':

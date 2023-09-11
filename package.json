@@ -13,7 +13,6 @@
     "astro": "^3.0.10"
   },
   "dependencies": {
-    "preact": "^10.17.1",
-    "preact@latest": "link:astro/preact@latest"
+    "preact": "^10.17.1"
   }
 }
