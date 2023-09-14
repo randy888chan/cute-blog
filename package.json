@@ -18,10 +18,12 @@
     "@astrolib/analytics": "^0.4.2",
     "@astrolib/seo": "^1.0.0-beta.4",
     "@fontsource-variable/inter": "^5.0.8",
-    "astro": "^3.0.7",
+    "@fontsource/grape-nuts": "^5.0.12",
+    "astro": "^3.0.13",
     "astro-icon": "^1.0.0-next.2",
     "limax": "4.1.0",
     "lodash.merge": "^4.6.2",
+    "rimraf": "^5.0.1",
     "unpic": "^3.10.0"
   },
   "devDependencies": {
