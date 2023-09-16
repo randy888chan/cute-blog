@@ -14,7 +14,7 @@ module.exports = {
       fontFamily: {
         sans: ['var(--aw-font-sans)', ...defaultTheme.fontFamily.sans],
         serif: ['var(--aw-font-serif)', ...defaultTheme.fontFamily.serif],
-        heading: ['Grape Nuts', ...defaultTheme.fontFamily.sans],
+        heading: ['Grape Nuts'],
       },
     },
   },

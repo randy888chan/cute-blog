@@ -1,6 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import "global.css";
+@import "theme.css";
 
 @layer utilities {
   .bg-page {
