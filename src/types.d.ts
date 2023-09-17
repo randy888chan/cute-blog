@@ -1,6 +1,29 @@
 import type { AstroComponentFactory } from 'astro/runtime/server/index.js';
 import type { HTMLAttributes } from 'astro/types';
 
+export interface CompatibilityItem {
+  icon: string;
+  title: string;
+  url: string;
+}
+
+export interface FeatureItem {
+  description: string;
+  icon: string;
+  title: string;
+}
+
+export interface FooterLink {
+  description: string;
+  icon: string;
+  url: string;
+}
+
+export interface NavItem {
+  title: string;
+  url: string;
+}
+
 export interface Post {
   /** A unique ID number that identifies a post. */
   id: string;
